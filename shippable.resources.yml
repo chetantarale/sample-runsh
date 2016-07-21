@@ -3,6 +3,6 @@ resources:
     type: gitRepo
     integration: github
     pointer:
-      sourceName: himanshu0503/sample-script
+      sourceName: chetantarale/sample-script
       branch: master
 
