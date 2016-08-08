@@ -7,4 +7,4 @@ jobs:
       - TASK:
         - script: sudo apt-get install tree
         - script: tree -F IN
-        - script: IN/sample-script/sample-script/echo.sh
+        - script: IN/sample-script/gitRepo/echo.sh
