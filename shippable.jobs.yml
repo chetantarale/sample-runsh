@@ -3,7 +3,6 @@ jobs:
     type: runSh
     steps:
       - IN: sample-script
-      - IN: runImage
       - IN: triggertest1
       - TASK:
         - script: sudo apt-get install tree
